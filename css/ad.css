@@ -1,0 +1,5 @@
+.ad{
+    width: var(--width-ad);
+    float:left;
+    /* clear:both; */
+}

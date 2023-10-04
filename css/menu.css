@@ -1,0 +1,25 @@
+.menu{
+    float: right;
+    /* Типографіка */
+    font-family: var(--font-family-h);
+    font-size: var(--font-size-h2);
+}
+.menu ul li{
+    display: inline-block;
+    z-index: 5;
+}
+.menu ul li a{
+    color: var(--color-dark-purple);
+}
+.menu ul li a:hover{
+    color:var(--color-purple);
+    text-decoration: underline;
+}
+.position_img_menu{
+    background: url(../img/menu.png) no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 0px;
+    top: 0px;
+
+}

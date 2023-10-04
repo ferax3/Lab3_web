@@ -1,0 +1,26 @@
+/*імпортуємо шрифти з Google*/
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Noto+Serif:wght@100&display=swap");
+:root{
+    /* Кольори */
+    --color-purple:#5F1FC7;
+    --color-blue:#79AAC1;
+    --color-dark-purple:#382B47;
+    /* Шрифти та їх розміри */
+    --font-family-h: "Cinzel";
+    --font-family-text:"Noto Serif";
+    --font-size-h1: 44px;
+    --font-size-h2: 28px;    
+    --font-size-h3: 24px;
+    --font-size-p: 24px;
+    /* Розміри сайту */
+    --width:1440px;
+    --width-headline:720px;
+    --width-ad:541px;
+    --width-content:899px;
+    --heigth-header:83px;
+    --heigth-footer:56px;
+    --img-logo:672px;
+    /*Відступи */
+
+}

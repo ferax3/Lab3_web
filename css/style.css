@@ -1,0 +1,20 @@
+@import url(base.css);
+@import url(reset.css);
+@import url(header.css);
+@import url(headline.css);
+@import url(menu.css);
+@import url(ad.css);
+@import url(content.css);
+@import url(footer.css);
+body{
+    margin: auto;
+    max-width: var(--width);
+}
+.container{
+    width: var(--width);
+    background-color: var(--color-purple);
+    color:var(--color-blue);
+    font-family: var(--font-family-text);
+    font-size: var(--font-size-p);
+    height: 1509px;
+}

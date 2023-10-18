@@ -1,3 +1,22 @@
 .headline{
     float: left;
+    font-family: var(--font-family-h);
+    font-size: var(--font-size-h1);
+    padding-top: 8px;
+    padding-left: 38px;
+    max-height: 1379px;
 }
+.h1_headline{
+    color:var(--color-dark-purple);
+    /* font-weight: bold; */
+}
+.position_img_name{
+    position: relative;
+    top: 5px;
+    left: 51px;
+    background: url(../img/for_name.png) no-repeat;
+}
+/* .position_img_subname{
+    background: url(../img/menu.png) no-repeat;
+    background-size: cover;
+} */

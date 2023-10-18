@@ -3,10 +3,13 @@
     /* Типографіка */
     font-family: var(--font-family-h);
     font-size: var(--font-size-h2);
+    padding-top: 15px;
+    padding-left: 25px;
 }
 .menu ul li{
     display: inline-block;
-    z-index: 5;
+    padding-right: 3px;
+    list-style: none;
 }
 .menu ul li a{
     color: var(--color-dark-purple);
@@ -18,7 +21,4 @@
 .position_img_menu{
     background: url(../img/menu.png) no-repeat;
     background-size: cover;
-    position: relative;
-    left: 0px;
-    top: 0px;
 }

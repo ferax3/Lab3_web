@@ -1,3 +1,22 @@
 .footer{
     height: var(--heigth-footer);
+    top: 1453px;
+    position: absolute;
+    width: var(--width);
+    font-family: var(--font-family-text);
+    font-size: var(--font-size-p);
+    color:var(--color-dark-purple)
+}
+.bubble_footer{
+    background: url(../img/footer.png) no-repeat;
+    background-size: cover;
+}
+.author{
+    top: 0px;
+    left: 622px;
+    width: 205px;
+    height: 58px;
+    position: absolute;
+    padding-top: 10px;
+    font-weight: bold;
 }

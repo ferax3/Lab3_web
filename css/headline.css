@@ -8,7 +8,6 @@
 }
 .h1_headline{
     color:var(--color-dark-purple);
-    /* font-weight: bold; */
 }
 .position_img_name{
     position: relative;
@@ -16,7 +15,4 @@
     left: 51px;
     background: url(../img/for_name.png) no-repeat;
 }
-/* .position_img_subname{
-    background: url(../img/menu.png) no-repeat;
-    background-size: cover;
-} */
+
